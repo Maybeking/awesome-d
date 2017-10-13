@@ -341,7 +341,7 @@
 
 ## Machine Learning
 
-* [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
+* [vectorflow](https://github.com/Netflix/vectorflow) - Netflix's opensource deep learning framework.
 
 ## Scientific
 *Scientific programming*
